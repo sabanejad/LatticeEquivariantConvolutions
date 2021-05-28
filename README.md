@@ -26,6 +26,8 @@ For a search over hyperparameter space for ENN (and equivalently for the other t
 
 To train the ENN model (and equivalently for the other two options), run "./train_ENN.py L N", where if N=0 the hyperparameters that minimize the loss are used, whil if N=1 those that maximize the Monte Carlo Markov chain acceptance rate are used.
 
+The MakePlots.ipynb notebook can be used to load the results and make plots.
+
 
 ## Authors
 
