@@ -13,7 +13,6 @@ This code utilizes pytorch as well as ray
 ```
 import torch 
 import ray
-
 ```
 
 
