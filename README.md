@@ -20,7 +20,7 @@ import e2cnn
 
 ## Running the code 
 
-There are three sets of scripts, one designed to work with a normal CNN, one with a rotationally invariant CNN kernel and one with ENNs.
+There are three sets of scripts, one designed to work with a normal CNN, one with a rotationally invariant CNN kernel and one with ENNs. All scripts have accompanying "load_\*" files with all the function and classes that need to be imported as well as detailed descriptions for all of them. 
 
 For a search over hyperparameter space for ENN (and equivalently for the other two options), run "./hyperoptimization_for_ENN.py L", where L is an integer corresponding to the lattice size.
 
